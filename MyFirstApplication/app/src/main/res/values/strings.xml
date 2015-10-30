@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Number Finder</string>
+    <string name="guesstext">guess the number!</string>
+    <string name="check">check!</string>
+    <string name="reset">Reset</string>
+    <string name="tip">guess!</string>
+    <string name="text_hint">number</string>
+    <string name="easy_Button">0 - 100</string>
+    <string name="sets">0</string>
+</resources>
